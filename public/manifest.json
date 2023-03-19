@@ -1,6 +1,6 @@
 {
-    "short_name": "React App",
-    "name": "Create React App Sample",
+    "short_name": "PWA React",
+    "name": "React.js PWA App Sample",
     "icons": [{
         "src": "favicon.ico",
         "sizes": "64x64 32x32 24x24 16x16",
@@ -29,61 +29,61 @@
             "sizes": "512x512"
         }],
     "shortcuts": [{
-        "name": "Case Studies",
-        "short_name": "Case Studies",
+        "name": "1",
+        "short_name": "1",
         "url": "/case-studies",
         "icons": [{
-            "src": "/android-chrome-192x192.png",
+            "src": "/images/s.png",
             "sizes": "192x192",
             "type": "image/png"
         }]
     },
         {
-            "name": "Company",
-            "short_name": "Company",
+            "name": "2",
+            "short_name": "2",
             "url": "/company",
             "icons": [{
-                "src": "/android-chrome-192x192.png",
+                "src": "/images/s.png",
                 "sizes": "192x192",
                 "type": "image/png"
             }]
         },
         {
-            "name": "Approach",
-            "short_name": "Approach",
+            "name": "3",
+            "short_name": "3",
             "url": "/approach",
             "icons": [{
-                "src": "/android-chrome-192x192.png",
+                "src": "/images/s.png",
                 "sizes": "192x192",
                 "type": "image/png"
             }]
         },
         {
-            "name": "Careers",
-            "short_name": "Careers",
+            "name": "4",
+            "short_name": "4",
             "url": "/careers",
             "icons": [{
-                "src": "/android-chrome-192x192.png",
+                "src": "/images/s.png",
                 "sizes": "192x192",
                 "type": "image/png"
             }]
         },
         {
-            "name": "Blog",
-            "short_name": "Blog",
+            "name": "5",
+            "short_name": "5",
             "url": "/blog",
             "icons": [{
-                "src": "/android-chrome-192x192.png",
+                "src": "/images/s.png",
                 "sizes": "192x192",
                 "type": "image/png"
             }]
         },
         {
-            "name": "Get a free quote",
-            "short_name": "Get a free quote",
+            "name": "6",
+            "short_name": "6",
             "url": "/contacts",
             "icons": [{
-                "src": "/android-chrome-192x192.png",
+                "src": "/images/s.png",
                 "sizes": "192x192",
                 "type": "image/png"
             }]
